@@ -1,2 +1,2 @@
 # Music-player
-Music Player app using java
+This is a Music Player app built on java
